@@ -1,5 +1,3 @@
-# Bias_Mitigation_Reweighing
-
 # Mitigating Algorithmic Bias via Reweighing: A Pre-processing Approach to Fair AI
 
 ## Overview
